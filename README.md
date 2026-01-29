@@ -1,4 +1,6 @@
-# Network error interstitial resources
+# Chromium Pong Game
+
+Basically all you need to do is replace contents of the `components/neterror` file with the contents in this repo.
 
 This directory contains the HTML template and resources displayed in the case of
 network errors received when fetching the root document or iframes. These error
